@@ -9,14 +9,18 @@ Keyboard support,
 
 Beautiful artwork**
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-
 Music**
 
 Sound effects**
 
 And a scoring system
 
-
-
 ** **Note: We do not own these assets, it is used for demonstrative purposes.**
+
+![Title screen](/tressure_hunter_pics/scrolling_Game_title.png )
+
+![Title screen](/tressure_hunter_pics/gameplay_1.png )
+
+![Title screen](/tressure_hunter_pics/gameplay_2.png )
+
+![Title screen](/tressure_hunter_pics/game_Over_screen.png )
