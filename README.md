@@ -9,9 +9,7 @@ Keyboard support,
 
 Beautiful artwork**
 
-<p align="center">
-  <img src="https://onedrive.live.com/redir?resid=F191F34CFBF0C9CB!111575&authkey=!AJvBHpDR-PAmek8&v=3&ithint=photo%2cpng" width="350"/>
-</p>
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 Music**
 
