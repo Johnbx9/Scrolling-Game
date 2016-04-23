@@ -9,6 +9,10 @@ Keyboard support,
 
 Beautiful artwork**
 
+<p align="center">
+  <img src="C:\tressure_hunter_pics\scrolling_Game_title" width="350"/>
+</p>
+
 Music**
 
 Sound effects**
