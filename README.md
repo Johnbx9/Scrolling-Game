@@ -1,5 +1,5 @@
 # Scrolling-Game
-An endless platformer game. As a tressure hunter collect teassure to increase your score. How high can you go?  Note: **Do not own music and artwork**
+An endless platformer game. As a treasure hunter collect teassure to increase your score. How high can you go?  Note: **Do not own music and artwork**
 
 A group of 3 classmates and I created this endless platformer game as part of a final assignment for a videogame programming class. 
 
